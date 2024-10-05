@@ -13,19 +13,19 @@ The **IT Support Ticketing System** is a Jira-based solution for managing and re
 
 ### 1. Board View
 This is the primary view of the ticket management system, showcasing the status of various tickets.
-![Board View](screenshots/board_view.png)
+![Board View](Board_View.png)
 
 ### 2. List View
 An overview of all tickets in a tabular format, showing type, priority, status, and summary.
-![List View](screenshots/list_view.png)
+![List View](List_View.png)
 
 ### 3. Ticket Lifecycle
 The details of a ticket's lifecycle, demonstrating the progression through the workflow.
-![Ticket Lifecycle](screenshots/ticket_lifecycle.png)
+![Ticket Lifecycle](Sample_Ticket.png)
 
 ### 4. Workflow View
 A visual representation of the custom ticket workflow for handling various types of IT issues.
-![Workflow View](screenshots/workflow_view.png)
+![Workflow View](Workflow.png)
 
 ## How to Run This Project
 1. **Clone the repository**:
