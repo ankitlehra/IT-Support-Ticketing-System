@@ -26,8 +26,3 @@ The details of a ticket's lifecycle, demonstrating the progression through the w
 ### 4. Workflow View
 A visual representation of the custom ticket workflow for handling various types of IT issues.
 ![Workflow View](Workflow.png)
-
-## How to Run This Project
-1. **Clone the repository**:
-   ```bash
-   git clone https://github.com/yourusername/IT-Support-Ticketing-System.git
