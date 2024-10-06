@@ -19,9 +19,9 @@ This is the primary view of the ticket management system, showcasing the status 
 An overview of all tickets in a tabular format, showing type, priority, status, and summary.
 ![List View](List_View.png)
 
-### 3. Ticket Lifecycle
-The details of a ticket's lifecycle, demonstrating the progression through the workflow.
-![Ticket Lifecycle](Sample_Ticket.png)
+### 3. Sample Ticket
+Screenshot of a sample Jira ticket titled "Email Server Down," demonstrating issue tracking and status management.
+![Sample Ticekt](Sample_Ticket.png)
 
 ### 4. Workflow View
 A visual representation of the custom ticket workflow for handling various types of IT issues.
