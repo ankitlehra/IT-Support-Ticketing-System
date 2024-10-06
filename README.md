@@ -29,7 +29,7 @@ A visual representation of the custom ticket workflow for handling various types
 
 ### 5. Automation Rules Overview
 This view shows the automation rules configured in the system to handle ticket management automatically.
-![Automation Rules]()
+![Automation Rules](Automation_Rules.png)
 
 ## Automation Rules Implemented
 
