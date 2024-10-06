@@ -26,3 +26,21 @@ The details of a ticket's lifecycle, demonstrating the progression through the w
 ### 4. Workflow View
 A visual representation of the custom ticket workflow for handling various types of IT issues.
 ![Workflow View](Workflow.png)
+
+### 5. Automation Rules Overview
+This view shows the automation rules configured in the system to handle ticket management automatically.
+![Automation Rules](Automation_Rules.png)
+
+## Automation Rules Implemented
+
+### 1. Alert High Priority Issues
+- **Description**: Sends an alert when a new high-priority issue is created.
+
+### 2. Auto-Assign Based on Issue Type
+- **Description**: Automatically assigns tickets based on the type of issue (e.g., Bug, Task, Incident).
+
+### 3. Auto-Close Resolved Tickets After 48 Hours
+- **Description**: Closes tickets automatically if they remain in the "Resolved" status for 48 hours.
+
+### 4. Send Email Notification on Status Change
+- **Description**: Sends an email notification when the status of a ticket changes.
